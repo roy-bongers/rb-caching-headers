@@ -1,0 +1,22 @@
+{
+    "name": "roy-bongers/rb-caching-headers",
+    "description": "Sends HTTP caching headers",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0-or-later",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "authors": [
+        {
+            "name": "Roy Bongers",
+            "homepage": "https://roybongers.nl/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "http://github.com/roy-bongers/rb-caching-headers/issues",
+        "source": "http://github.com/roy-bongers/rb-caching-headers",
+        "docs": "http://github.com/roy-bongers/rb-caching-headers"
+    }
+}
